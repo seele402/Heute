@@ -1,0 +1,43 @@
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\SIVODNA wpf.exe.config
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\SIVODNA wpf.exe
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\SIVODNA wpf.pdb
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\HtmlAgilityPack.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Newtonsoft.Json.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Quartz.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.IO.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.Net.Http.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.Runtime.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\VkNet.dll
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\HtmlAgilityPack.pdb
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\HtmlAgilityPack.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Newtonsoft.Json.pdb
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Newtonsoft.Json.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Quartz.pdb
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\Quartz.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\bin\Release\VkNet.xml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\Heute.csprojAssemblyReference.cache
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\MainWindow.g.cs
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\App.g.cs
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\SIVODNA wpf_MarkupCompile.cache
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\SIVODNA wpf_MarkupCompile.lref
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\MainWindow.baml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\SIVODNA wpf.g.resources
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\SIVODNA_wpf.Properties.Resources.resources
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\Heute.csproj.GenerateResource.cache
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\Heute.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\Heute.csproj.CopyComplete
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\SIVODNA wpf.exe
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\SIVODNA wpf.pdb
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\Switch.g.cs
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\Switch.baml
+C:\Users\vesel\source\repos\JigiDo\Heute\Heute\obj\Release\GeneratedInternalTypeHelper.g.cs
