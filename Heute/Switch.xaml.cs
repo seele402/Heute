@@ -1,9 +1,19 @@
-﻿using System.Windows;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
 
-namespace Heute
+namespace SIVODNA_wpf
 {
     /// <summary>
     /// Логика взаимодействия для Switch.xaml
@@ -15,7 +25,7 @@ namespace Heute
         SolidColorBrush Off = new SolidColorBrush(Color.FromArgb(100, 244, 244, 245));
         SolidColorBrush On = new SolidColorBrush(Color.FromArgb(100, 68, 148, 74));
 
-        public bool Toggled { get; set; }
+        public bool Toggled { get; set; } 
 
         public Switch()
         {
