@@ -1,7 +1,6 @@
 ﻿using System.Windows;
 using VkNet;
 using VkNet.Model;
-using System.Windows.Media;
 using System.Windows.Input;
 using System.Threading;
 using System.Threading.Tasks;
@@ -21,9 +20,11 @@ namespace Heute
         // Работа слайдера
         private async void Switch_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
-            int Hour = 0;
-            int Minute = 0;
-            int Seconds = 0;
+
+            int Hour = 00;
+            int Minute = 00;
+            int Seconds = 00;
+            
 
             if (!this.Switch.Toggled)
             {
