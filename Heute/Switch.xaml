@@ -1,0 +1,16 @@
+﻿<UserControl x:Name="Switch1" x:Class="SIVODNA_wpf.Switch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SIVODNA_wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+	<Viewbox Margin="10,0,0,10">
+		<Grid>
+			<Rectangle x:Name="Back" Fill="#FFF4F4F5" HorizontalAlignment="Center" Height="110" Margin="180.629,154,288,155" Stroke="White" VerticalAlignment="Center" Width="216" RadiusY="53" RadiusX="53" MouseLeftButtonDown="Back_MouseLeftButtonDown" Grid.Column="1"/>
+			<Ellipse x:Name="Dot" HorizontalAlignment="Center" Height="105" Stroke="Black" VerticalAlignment="Center" Width="100" Fill="#FFCFCCCC" MouseLeftButtonDown="Ellipse_MouseLeftButtonDown" Margin="189,157,396,157"/>
+
+		</Grid>
+	</Viewbox>
+</UserControl>
