@@ -15,7 +15,7 @@ namespace Heute
         public MainWindow()
         {
             InitializeComponent();
-            Switch.TurnOff();
+            ToggleSwitch.TurnOff();
         }
         private void Token()
         {
@@ -30,13 +30,13 @@ namespace Heute
         private async void Switch_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
 
-            if (!this.Switch.Toggled)
+            if (!this.ToggleSwitch.Toggled)
             {
                 //this._cancellationGetUpdates?.Cancel();
                 return;
             }
 
-            if (this.Switch.Toggled == true)
+            if (this.ToggleSwitch.Toggled == true)
             {
                 await Task.Factory.StartNew(() =>
                 {                    
@@ -51,8 +51,8 @@ namespace Heute
                             var api = new VkApi();
                             api.Messages.Send(new VkNet.Model.RequestParams.MessagesSendParams
                             {
-                                PeerId = 133199090,
-                                Message = "а"
+                                PeerId = 112853315,
+                                Message = "завали свою ебасосину ебаный сын дуры хеллоу" //пример сообщения
                             });
                         }
                 }
