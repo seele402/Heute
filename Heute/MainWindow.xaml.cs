@@ -33,11 +33,10 @@ namespace Heute
                     if ((System.DateTime.Now.Hour == 00) && (System.DateTime.Now.Minute == 00) && (System.DateTime.Now.Second == 00))
                     {
                             APIwk.Messg(); // Отправка сообщения
-                            MessageBox.Show("Сообщение отправлено");
-                    }
-                    }
+                        }
+                }
                 });
             }
-        } 
+        }
     }
 }
