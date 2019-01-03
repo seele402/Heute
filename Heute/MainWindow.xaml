@@ -8,12 +8,12 @@
         mc:Ignorable="d"
 		ResizeMode="NoResize"
         Title="MainWindow" Height="450" Width="800" VerticalAlignment="Center">
-	<Grid Margin="0" Background="#FF3A3A3A">
-		<Grid.ColumnDefinitions>
-			<ColumnDefinition Width="107*"/>
-			<ColumnDefinition Width="685*"/>
-		</Grid.ColumnDefinitions>
-		<Label x:Name="Text" Content="За работу" HorizontalAlignment="Left" Margin="228.629,113,0,0" VerticalAlignment="Top" Width="110" FontSize="22" Foreground="#FFF9F9F9" Grid.Column="1"/>
-		<Heute:Switch x:Name="ToggleSwitch" HorizontalAlignment="Left" Height="553" VerticalAlignment="Top" Width="696" Margin="86,-60,0,-74" Grid.ColumnSpan="2" MouseLeftButtonDown="Switch_MouseLeftButtonDown"/>
-	</Grid>
+    <Grid Margin="0" Background="#FF3A3A3A">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="107*"/>
+            <ColumnDefinition Width="685*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="Text" Content="За работу" HorizontalAlignment="Left" Margin="228.629,113,0,0" VerticalAlignment="Top" Width="110" FontSize="22" Foreground="#FFF9F9F9" Grid.Column="1"/>
+        <Heute:Switch x:Name="ToggleSwitch" HorizontalAlignment="Left" Height="553" VerticalAlignment="Top" Width="696" Margin="86,-60,0,-74" Grid.ColumnSpan="2" MouseLeftButtonDown="Switch_MouseLeftButtonDown"/>
+    </Grid>
 </Window>

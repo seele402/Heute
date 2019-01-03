@@ -123,6 +123,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="APIwk.cs" />
     <Compile Include="Switch.xaml.cs">
       <DependentUpon>Switch.xaml</DependentUpon>
     </Compile>
