@@ -52,7 +52,7 @@ namespace Heute
                             api.Messages.Send(new VkNet.Model.RequestParams.MessagesSendParams
                             {
                                 PeerId = 112853315,
-                                Message = "завали свою ебасосину ебаный сын дуры хеллоу" //пример сообщения
+                                Message = "СИВОДНЯ" //пример сообщения
                             });
                         }
                 }
